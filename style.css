@@ -1,0 +1,237 @@
+/* font family */
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* end fontstyle */
+
+@import url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css');
+
+body {
+  font-family: 'Mulish', sans-serif;
+}
+/* navbar */
+.container-fluid {
+  margin-top: 30px;
+}
+
+.nav-items .nav-links {
+  font-family: 'Mulish', sans-serif;
+}
+/* end navbar */
+
+/* header */
+.container .row-header {
+  margin-top: 80px;
+}
+
+.header .row-header img {
+  width: 693px;
+  height: 598px;
+  margin-top: -28px;
+}
+.row-header .text-header {
+  margin-top: 100px;
+}
+
+.fw-bolder {
+  font-family: 'Mulish', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 56px;
+}
+
+.fw-light {
+  font-family: 'Mulish', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 21px;
+  line-height: 32px;
+}
+
+.row-header .btn {
+  width: 200px;
+  height: 56px;
+  font-family: 'Mulish', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 30px;
+  padding: 12px;
+}
+/* end header */
+
+/* our service */
+
+.main-content {
+  margin-top: 222px;
+}
+.text-content hr {
+  width: 56px;
+  height: 2px;
+  color: black;
+  border-radius: 5px;
+}
+
+.main-content .text-content p {
+  width: 952px;
+  height: 90px;
+  font-family: 'Mulish', sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 30px;
+}
+
+.main-content .service {
+  width: 350px;
+  height: 354px;
+  border-radius: 20px;
+}
+
+.main-content .content-logo h3 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 56px;
+}
+.main-content .content-logo p {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 28px;
+  width: 266px;
+}
+/* end our service */
+
+/* section 2 */
+.section-2 {
+  margin-top: 220px;
+}
+
+.canvas-section-2 h3 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 56px;
+  width: 481px;
+}
+
+.canvas-section-2 hr {
+  width: 56px;
+  height: 2px;
+  color: black;
+  border-radius: 5px;
+}
+
+.canvas-section-2 p {
+  width: 450px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+/* end secton 2 */
+
+/* section 3 */
+.section-3 {
+  margin-top: 220px;
+}
+
+.canvas-section-3 h3 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 56px;
+  width: 481px;
+}
+
+.canvas-section-3 hr {
+  width: 56px;
+  height: 2px;
+  color: black;
+  border-radius: 5px;
+}
+
+.canvas-section-3 p {
+  width: 450px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+/* end section 3 */
+
+/* section 4 */
+.full-section-4 {
+  margin-top: 262px;
+}
+.section-4 {
+  width: 1120px;
+  height: 425px;
+  background: linear-gradient(208.18deg, #67c3f3 9.05%, #5a98f2 76.74%);
+  border-radius: 24px;
+  padding: 67px;
+}
+
+.section-4 hr {
+  width: 56px;
+  height: 2px;
+  color: white;
+  border-radius: 5px;
+}
+
+.section-4 h3 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 48px;
+  color: #ffffff;
+}
+
+.section-4 h4 p {
+  color: #ffffff;
+}
+
+.circle.many-circle {
+  width: 10px;
+  background-color: #5a98f2;
+}
+/* end section 4 */
+
+/* section article */
+
+.section-5 .container {
+  margin-top: 222px;
+}
+
+.section-5 .text-article hr {
+  width: 56px;
+  height: 2px;
+  color: black;
+  border-radius: 5px;
+}
+
+.section-5 .container .card {
+  border-radius: 20px;
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  border: none;
+}
+
+.canvas-card {
+  margin-top: 79px;
+}
+
+.section-5 .container .canvas-card .card .card-body a {
+  color: #4089ed;
+}
+/* endsection article */
+
+/* foooter */
+.container-fluid {
+  background: linear-gradient(183.41deg, #67c3f3 -8.57%, #5a98f2 82.96%);
+}
+
+footer {
+  margin-top: 200px;
+}
+/* end footer */
